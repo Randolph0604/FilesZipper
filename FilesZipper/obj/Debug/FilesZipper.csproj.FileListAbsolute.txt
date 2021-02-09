@@ -1,0 +1,10 @@
+C:\Users\Rando\OneDrive\Desktop\RandolphLP\Proyectos\C#\FilesZipper\bin\Debug\FilesZipper.exe.config
+C:\Users\Rando\OneDrive\Desktop\RandolphLP\Proyectos\C#\FilesZipper\bin\Debug\FilesZipper.exe
+C:\Users\Rando\OneDrive\Desktop\RandolphLP\Proyectos\C#\FilesZipper\bin\Debug\FilesZipper.pdb
+C:\Users\Rando\OneDrive\Desktop\RandolphLP\Proyectos\C#\FilesZipper\obj\Debug\FilesZipper.csprojAssemblyReference.cache
+C:\Users\Rando\OneDrive\Desktop\RandolphLP\Proyectos\C#\FilesZipper\obj\Debug\FilesZipper.Index.resources
+C:\Users\Rando\OneDrive\Desktop\RandolphLP\Proyectos\C#\FilesZipper\obj\Debug\FilesZipper.Properties.Resources.resources
+C:\Users\Rando\OneDrive\Desktop\RandolphLP\Proyectos\C#\FilesZipper\obj\Debug\FilesZipper.csproj.GenerateResource.cache
+C:\Users\Rando\OneDrive\Desktop\RandolphLP\Proyectos\C#\FilesZipper\obj\Debug\FilesZipper.csproj.CoreCompileInputs.cache
+C:\Users\Rando\OneDrive\Desktop\RandolphLP\Proyectos\C#\FilesZipper\obj\Debug\FilesZipper.exe
+C:\Users\Rando\OneDrive\Desktop\RandolphLP\Proyectos\C#\FilesZipper\obj\Debug\FilesZipper.pdb
